@@ -1,0 +1,12 @@
+{
+  "name": "raschyoska-site",
+  "version": "1.0.1",
+  "description": "Адаптивный сайт парикмахерской «Расчёска» в Вологде",
+  "private": true,
+  "license": "UNLICENSED",
+  "author": "SetchatkaGlaza Web Studio",
+  "scripts": {
+    "start": "npx --yes serve .",
+    "check": "node scripts/check-site.mjs"
+  }
+}
